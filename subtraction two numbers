@@ -1,0 +1,9 @@
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+diff=n1-n2
+print("subtraction two numbers =",diff)
+
+output:
+enter the first number:4
+enter the second number:2
+subtraction two numbers = 2
