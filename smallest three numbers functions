@@ -1,0 +1,17 @@
+def my_function(n1,n2,n3):
+    if n1<=n2 and n1<=n3:
+        print("smallest number =",n1)
+    elif n2<=n1 and n2<=n3:
+        print("smallest number =",n2)
+    else:
+        print("smallest number =",n3)
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+n3=int(input("enter the third number:"))
+my_function(n1,n2,n3)
+
+output:
+enter the first number:1
+enter the second number:2
+enter the third number:3
+smallest number = 1
