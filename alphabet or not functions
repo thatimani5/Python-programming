@@ -1,0 +1,11 @@
+def my_function(c):
+    if c>='a'and c<='z'or c>='A'and c<='Z':
+        print("alphabet")
+    else:
+        print("not alphabet")
+c=input("enter the character:")
+my_function(c)
+
+output:
+enter the character:a
+alphabet
