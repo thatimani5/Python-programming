@@ -1,0 +1,9 @@
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+add=n1+n2
+print("addition two numbers =",add)
+
+output:
+enter the first number:2
+enter the second number:3
+addition two numbers = 5
