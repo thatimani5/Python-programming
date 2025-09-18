@@ -1,0 +1,9 @@
+def my_function(n):
+    cube=n**3
+    print("cube number =",cube)
+n=int(input("enter the number:"))
+my_function(n)
+
+output:
+enter the number:2
+cube number = 8
