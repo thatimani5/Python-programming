@@ -1,0 +1,9 @@
+age=int(input("enter the age of a person:"))
+if age>=18:
+    print("person eligible to vote")
+else:
+    print("person not eligible to vote he needs",18-age,"more years to vote")
+
+output:
+enter the age of a person:18
+person eligible to vote
