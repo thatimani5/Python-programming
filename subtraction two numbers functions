@@ -1,0 +1,11 @@
+def my_function(n1,n2):
+    diff=n1-n2
+    print("subtraction of two numbers =",diff)
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
+
+output:
+enter the first number:4
+enter the second number:2
+subtraction two numbers = 2
