@@ -1,0 +1,12 @@
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+if n2==0:
+    print("error! floor division not possible")
+else:
+    floor=n1//n2
+    print("floor division two numbers =",floor)
+
+output:
+enter the first number:4
+enter the second number:2
+floor division two numbers = 2
