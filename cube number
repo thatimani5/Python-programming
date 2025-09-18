@@ -1,0 +1,7 @@
+n=int(input("enter the number:"))
+cube=n**3
+print("cube number =",cube)
+
+output:
+enter the number:2
+cube number = 8
