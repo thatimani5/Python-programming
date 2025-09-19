@@ -1,0 +1,9 @@
+l=int(input("enter the length:"))
+b=int(input("enter the breadth:"))
+area=l*b
+print("area rectangle =",area)
+
+output:
+enter the length:11
+enter the breadth:13
+area rectangle = 143
