@@ -1,0 +1,8 @@
+def my_function(s):
+    s1=sorted(s,reverse=True)
+    print("sorted list =",s1)
+s=[1,5,3,4,2]
+my_function(s)
+
+output:
+sorted list = [5, 4, 3, 2, 1]
