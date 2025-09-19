@@ -1,0 +1,15 @@
+def my_function(s):
+    s1=[]
+    for i in range(s):
+        n1=int(input(f"enter the {i+1} value:"))
+        s1.append(n1)
+    print(s1)
+s=int(input("enter the size:"))
+my_function(s)
+
+output:
+enter the size:3
+enter the 1 value:1
+enter the 2 value:2
+enter the 3 value:3
+[1, 2, 3]
