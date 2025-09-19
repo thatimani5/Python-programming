@@ -1,0 +1,13 @@
+def my_funtion(c):
+    if c>='A'and c<='Z':
+        print("uppercase alphabet")
+    elif c>='a'and c<='z':
+        print("lowercase alphabet")
+    else:
+        print("not an alphabet")
+c=input("enter the character:")
+my_funtion(c)
+
+output:
+enter the character:A
+uppercase alphabet
