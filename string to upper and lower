@@ -1,0 +1,10 @@
+s=input("enter the string:")
+s_u=s.upper()
+s_l=s.lower()
+print("uppercase =",s_u)
+print("lowercase =",s_l)
+
+output:
+enter the string:ManI
+uppercase = MANI
+lowercase = mani
