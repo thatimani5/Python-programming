@@ -1,0 +1,9 @@
+def my_function(s):
+    area=s*s
+    print("area square =",area)
+s=int(input("enter the side:"))
+my_function(s)
+
+output:
+enter the side:5
+area square = 25
