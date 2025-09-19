@@ -1,0 +1,11 @@
+def my_function(s1,s2):
+    concatenation=s1+s2
+    print("concatenation strings =",concatenation)
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+my_function(s1,s2)
+
+output:
+enter the first string:mani
+enter the second string:kanta
+concatenation strings = manikanta
