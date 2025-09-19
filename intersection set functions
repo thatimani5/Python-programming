@@ -1,0 +1,9 @@
+def my_function(s1,s2):
+    s3=s1.intersection(s2)
+    print("intersection set =",s3)
+s1={1,2,3,4}
+s2={2,3,4,5}
+my_function(s1,s2)
+
+output:
+intersection set = {4, 5}
