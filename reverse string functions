@@ -1,0 +1,9 @@
+def my_function(s):
+    s1=s[::-1]
+    print("reversed string =",s1)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:mani
+reversed string = inam
