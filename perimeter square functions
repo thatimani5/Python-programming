@@ -1,0 +1,9 @@
+def my_function(s):
+    perimeter=4*s
+    print("perimeter square =",perimeter)
+s=int(input("enter the side:"))
+my_function(s)
+
+output:
+enter the side:4
+perimeter square = 16
