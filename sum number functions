@@ -1,0 +1,13 @@
+def my_function(n):
+    add=0
+    while n>0:
+        digit=n%10
+        add+=digit
+        n//=10
+    print("sum number =",add)
+n=int(input("enter the number:"))
+my_function(n)
+
+output:
+enter the number:123
+sum number = 6
