@@ -1,0 +1,8 @@
+def my_function(s):
+    add=sum(s)
+    print("sum tuple =",add)
+s=(1,2,3,4,5)
+my_function(s)
+
+output:
+sum tuple = 15
