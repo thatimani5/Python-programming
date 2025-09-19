@@ -1,0 +1,9 @@
+base=int(input("enter the base value:"))
+exponent=int(input("enter the exponent value:"))
+power=base**exponent
+print("power number =",power)
+
+output:
+enter the base value:4
+enter the exponent value:2
+power number = 16
