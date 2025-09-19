@@ -1,0 +1,9 @@
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+concatenation=s1+s2
+print("concatenation strings =",concatenation)
+
+output:
+enter the first string:mani
+enter the second string:kanta
+concatenation strings = manikanta
