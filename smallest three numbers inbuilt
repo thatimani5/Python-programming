@@ -1,0 +1,11 @@
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+n3=int(input("enter the third number:"))
+n4=min(n1,n2,n3)
+print("smallest three numbers =",n4)
+
+output:
+enter the first number:1
+enter the second number:2
+enter the third number:3
+smallest three numbers = 1
