@@ -1,0 +1,8 @@
+def my_function(s):
+    minimum=min(s)
+    print("minimum list =",minimum)
+s=[1,2,3,4,5]
+my_function(s)
+
+output:
+minimum list = 1
