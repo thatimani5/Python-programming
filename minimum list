@@ -1,0 +1,6 @@
+s=[1,2,3,4,5]
+minimum=min(s)
+print("minimum list =",minimum)
+
+output:
+minimum list = 1
