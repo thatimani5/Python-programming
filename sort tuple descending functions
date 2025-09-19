@@ -1,0 +1,8 @@
+def my_function(s):
+    s1=sorted(s,reverse=True)
+    print("sorted tuple =",tuple(s1))
+s=(1,5,4,3,2)
+my_function(s)
+
+output:
+sorted tuple = (5, 4, 3, 2, 1)
