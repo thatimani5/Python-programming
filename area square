@@ -1,0 +1,7 @@
+s=int(input("enter the side:"))
+area=s*s
+print("area square =",area)
+
+output:
+enter the side:5
+area square = 25
