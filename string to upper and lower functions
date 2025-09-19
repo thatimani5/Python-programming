@@ -1,0 +1,12 @@
+def my_function(s):
+    s_u=s.upper()
+    s_l=s.lower()
+    print("uppercase =",s_u)
+    print("lowercase =",s_l)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:ManI
+uppercase = MANI
+lowercase = mani
