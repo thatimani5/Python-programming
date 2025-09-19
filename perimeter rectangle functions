@@ -1,0 +1,11 @@
+def my_function(l,b):
+    perimeter=2*(l+b)
+    print("perimeter rectangle =",perimeter)
+l=int(input("enter the length:"))
+b=int(input("enter the breadth:"))
+my_function(l,b)
+
+output:
+enter the length:11
+enter the breadth:13
+perimeter rectangle = 48
