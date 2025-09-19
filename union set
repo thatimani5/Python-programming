@@ -1,0 +1,7 @@
+s1={1,2,3,4}
+s2={5,6,7}
+s3=s1.union(s2)
+print("union set =",s3)
+
+output:
+union set = {1, 2, 3, 4, 5, 6, 7}
